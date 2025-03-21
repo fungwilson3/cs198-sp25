@@ -6,3 +6,16 @@ body {
 h1 {
     font-family: 'Courier New', Courier, monospace;
 }
+
+a:link {
+    color: blue;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: lightskyblue;
+}
+a:active {
+    color: lightcyan;
+}
